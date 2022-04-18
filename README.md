@@ -1,5 +1,5 @@
 # gstreamer-tab
-A basic tab completion plugin for zsh
+A basic [GStreamer](https://gstreamer.freedesktop.org/) tab completion plugin for zsh
 
 # Install
 
